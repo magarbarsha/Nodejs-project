@@ -1,0 +1,20 @@
+step 1: npm init hanne / yeti alxi lago bane npm init -y handa hunca
+
+ package.json --- project describe garne file hooo
+
+ step 2: app.js file banaune jun main ho sab code ya halinca
+
+ step 3: js lai server side run garnu paro bannne 
+ (node app.js//file ko name) // hamle browser ko through run garim bane tyo normal js tara server side garnu lai (node app.js)
+  
+   npm vaneko yesto container ho jasma sab package hunca aabba mesenger intregate agrnu ca vane ni npm bata vs code ma package layinxa
+
+   npm bata vs code ma packages launu ca bane commmand (npm install package NAME)
+
+   step 4: npm bata express package launu paro (npm install express)
+
+   express: 4.19.2(Major.Minor.Patch) //sementic versioning(semver)
+
+   const express=require('express')
+const app=express() 
+app.listen()// yo 3 ta line junei pani project ma halnu parca
